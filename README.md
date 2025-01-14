@@ -1,6 +1,6 @@
 # API Star Wars: Planetas e Filmes
 
-Uma API RESTful desenvolvida em Python com Flask e MongoDB para gerenciar planetas e filmes da franquia Star Wars.
+API RESTful desenvolvida em Python com Flask e MongoDB para gerenciar planetas e filmes da franquia Star Wars.
 
 ## Índice
 - [Requisitos](#requisitos)
@@ -117,6 +117,6 @@ Uma API RESTful desenvolvida em Python com Flask e MongoDB para gerenciar planet
 
 ## Autor
 
-Criado por **asp.gabriel@gmail.com** como parte de um desafio técnico. 
+Criado por **asp.gabriel@gmail.com** como parte do desafio técnico. 
 
 ---
