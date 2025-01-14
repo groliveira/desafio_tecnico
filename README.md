@@ -26,7 +26,7 @@ API RESTful desenvolvida em Python com Flask e MongoDB para gerenciar planetas e
 1. Clone este repositório:
    ```bash
    git clone https://github.com/groliveira/desafio_tecnico.git
-   cd seu-repositorio
+   cd desafio_tecnico
    ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
