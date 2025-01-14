@@ -31,7 +31,7 @@ API RESTful desenvolvida em Python com Flask e MongoDB para gerenciar planetas e
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
    ```bash
-   python -m venv venv
+   virtualenv -p python3.9 venv
    source venv/bin/activate # Linux/Mac
    venv\Scripts\activate    # Windows
    ```
